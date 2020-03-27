@@ -1,0 +1,193 @@
+{
+	"API_RIOT": [{
+		"queue_lol": [{
+			"RANKED_SOLO_5x5": "DuoQ",
+			"RANKED_FLEX_SR": "Flex"
+		}],
+		"rank_lol": [{
+			"Iron": "Fer", 
+			"Bronze": "Bronze",
+			"Silver": "Silver",
+			"Gold": "Gold",
+			"Platinum": "Platinum",
+			"Diamond": "Diamond",
+			"Master": "Master",
+			"Grandmaster": "Grand Master",
+			"Challenger":"Challenger"
+		}],
+		"roles": [{
+			"All": "Tous",
+			"ADC": "ADC",
+			"Support": "Support",
+			"Mid": "Mid",
+			"Jungle": "Jungle",
+			"Top": "Top"
+		}],
+		"pick_type": [{
+			"TOURNAMENT_DRAFT": "Mode tournoi",
+			"BLIND_PICK": "Blind Pick",
+			"DRAFT_MODE": "Draft",
+			"ALL_RANDOM": "Random pick"
+		}],
+		"spectator": [{
+			"NONE": "Personne",
+			"LOBBYONLY": "Seulement le lobby",
+			"ALL": "Tout le monde"
+		}],
+		"map":  [{
+			"SUMMONERS_RIFT": "Map 5v5",
+			"TWISTED_TREELINE": "Map 3V3",
+			"HOWLING_ABYSS": "Map Aram"
+		}],
+	}],
+	"pseudo": "Pseudo",
+	"points": "Points",
+	"champion": "champion",
+	"champions": "champions",
+	"none": "Aucun",
+	"password": "Mot de passe",
+	"password_confirm": "Confirmation du mot de passe",
+	"login": [{
+		"via": "Via {param}",
+	}],
+	"register": [{
+		"title": "Création du compte L2P",
+		"condition": "Condition d'utilisation",
+		"ok": "J'accepte",
+		"ko": "Fermer",
+		"pseudo_l2p": "Pseudo sur L2P",
+		"email": "Email",
+		"link": "Lié au compte",
+		"accept_conditions": "J'accepte les conditions du site.",
+		
+	}],
+	"seeker": [{
+		"title": "S'inscire à la recherche de mate.",
+		"register": "Inscription",
+		"player": "recherche de joueur",
+		"team": "recherche de team",
+		"role": "Rôle",
+		"type": "Type",
+		"favorite_champ": "Champions favoris"
+
+	}],
+
+	"flash": [{
+		"login_contact_admin": "Impossible de se connecter à ce compte ! Contacter un Administrateur",
+		"no_account": "Aucun compte existe !",
+		"error": "Une erreur est survenue avec {param} !",
+		"captcha": "Veuillez remplir le captcha !",
+		"confirm_email": "Veuillez vérifier vos email, pour confirmer le compte !",
+		"wrong_password": "Mauvais mot de passe !",
+		"link_already": "Le compte {param} est déjà lié avec un autre compte !",
+		"account_not_verifed": "Votre compte {param} n'est pas vérifié !",
+		"error_occurred": "Une erreur est survenue",
+		"pseudo_already": "Le compte {param}/Pseudo est déjà lié avec un autre compte !",
+		"registration_ok": "Inscription réussite !",
+		"all_fields": "Tout les champs doivent être remplis !",
+		"email_or_pseudo_already": "L'email ou le pseudo existe déjà !",
+	}],
+	"settings": [{
+		"riot_error": "Aucun code trouver ..., redémarrer le luncheur ou regarder le tuto <code>{error}</code>",
+		"code_error": "Le code obtenu est {code_riot} le code attendu était :{code_session}. En cas de problème, veuillez redémarrer le luncheur !",
+		"bad_password": "Le mot de passe ne correspond pas ou est trop court !",
+		"link": "Lié a votre {param}",
+		"unlink": "Délié a votre {parm} ({info})",
+		"description": "Description",
+		"old_password": "Ancien MDP",
+		"new_password": "Nouveaux MDP",
+		"confirm_password": "Confirmation du MDP",
+		"country": "Pays",
+		"gender": "Sexe",
+		"women": "Femmen",
+		"man": "Homme",
+		"birthday": "Date de naissance ( Privé )",
+		"lol_name": "Pseudo LOL",
+		"email": "Adresse email",
+		"edit_profil": "Modifier mon profil",
+	}],
+	"profil": [{
+		"age": "{age} ans",
+		"online": "En ligne",
+		"offline": "Hors ligne depuis {time} {timeago}",
+		"poke": "Poke",
+		"last_update": "Dernière update il y a {timeago}",
+		"winrate": "Winrate"
+		}
+	],
+	"ladder": [{
+		"first": "1Er",
+		"second": "2 ème",
+		"ladder": "Classement",
+		"poke": "Poke",
+		"last_update": "Dernière update il y a {timeago}",
+		"winrate": "Winrate"
+		}
+	],
+	"button": [{
+		"password_lost": "Mot de passe oublié",
+		"login": "Connexion",
+		"register": "Inscription",
+		"not_link": "Compte {link} non lier !",
+		"unranked": "Unranked ...",
+		"waiting_code": "En attente des codes ...",
+		"waiting_win": "Victoire en attente ...",
+		"lose": "Éliminé au {nb_match} matchs",
+		"copy_code": "Copier le code",
+		"start": "En cours ...",
+		"winning": "Gagnant: {team}",
+		"unsubscribe": "Se désinscrire",
+		"ready": "Je suis prêt !",
+		"not_ready": "Je ne suis plus prêt !",
+		"delete": "Supprimer",
+		"edit": "Modifier",
+		"reactivate": "Reactiver"
+		}
+	],
+
+	"tournaments": [{
+		"name": "Nom",
+		"nb_player_team": "Nombre de joueurs/Team",
+		"nb_team": "Nombre de teams",
+		"launch_date": "Date du lancement",
+		"required": "Requis",
+		"participate": "Participer",
+		"nb_registered_player": "Nombre de joueur inscrits",
+		"status": "Statut",
+		"my_team": "Ma team: {my_team}",
+		"opponent": "Adversaire",
+		"map": "Map",
+		"pick": "Pick",
+		"information": "Information",
+		"rules": "Règlement",
+		"list_teams": "Liste des teams",
+		"matchs": "Matchs",
+		"list_participants": "Liste des participants",
+		"profil": "Profil",
+		"opgg": "opGG",
+		"rank": "Rank",
+		"state": "État",
+		"registered": "Inscrit",
+		"confirm": "Confirmer",
+		"discord_tips": "Information: Lier votre discord à L2P et rejoins le {url_discord} permet d'être en vocal avec vos mates",
+		"win": "Vainqueur"
+		}
+	],
+	"blog": [{
+		"date_by": "Le {date} par {user}"
+	}],
+	"nav_bar": [{
+		"mate_search": "Recherche de mate",
+		"ranking": "Classement",
+		"tournaments": "Tournoi",
+		"profil": "Profil",
+		"settings": "Settings",
+		"logout": "Décconnexion"
+
+	}],
+	"footer": [{
+		"online": "Il y a {count} personnes en lignes !",
+		"credit": "Fait avec amour <i class=\"fa fa-heart text-pulse\"></i> par <a class=\"font-w600\" href=\"https://twitter.com/florianmifsud\" target=\"_blank\">Florian Mifsud</a>",
+
+	}],
+}
