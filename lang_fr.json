@@ -36,7 +36,7 @@
 		},
 		"map":{
 			"SUMMONERS_RIFT":"Map 5v5",
-			"TWISTED_TREELINE":"Map 3V3",
+			"TWISTED_TREELINE":"Map 3v3",
 			"HOWLING_ABYSS":"Map Aram"
 		}
 	},
@@ -53,10 +53,10 @@
 		"via":"Via {param}"
 	},
 	"profil":{
-		"tournaments":"Tournois participé",
+		"tournaments":"Tournois participés",
 		"game":"JEUX",
 		"name":"NOM",
-		"nb_team":"NRB TEAMS",
+		"nb_team":"NBR TEAMS",
 		"nb_team_player":"NBR JOUEURS / TEAM",
 		"date":"date",
 		"view":"voir",
@@ -81,7 +81,7 @@
 	"forgot":{
 		"no_password":"Aucun mot de passe sur ce compte contactez un Administrateur",
 		"staff_account":"Action impossible, contacter un Administrateur",
-		"send":"Un email vient d'être envoyer !",
+		"send":"Un email vient d'être envoyé !",
 		"not_found":"Aucune adresse mail trouvé !"
 	},
 	"flash":{
@@ -89,7 +89,7 @@
 		"no_account":"Aucun compte n'existe !",
 		"error":"Une erreur est survenue avec {param} !",
 		"captcha":"Veuillez remplir le captcha !",
-		"confirm_email":"Veuillez vérifier vos email, pour confirmer le compte !",
+		"confirm_email":"Veuillez vérifier vos emails pour confirmer le compte !",
 		"wrong_password":"Mauvais mot de passe !",
 		"link_already":"Le compte {param} est déjà lié avec un autre compte !",
 		"account_not_verifed":"Votre compte {param} n'est pas vérifié !",
@@ -122,7 +122,7 @@
 		"new_password":"Nouveau MDP",
 		"confirm_password":"Confirmation du MDP",
 		"country":"Pays",
-		"privacy": "Vie privé ( cocher = cacher )", 
+		"privacy": "Vie privée ( cocher = cacher )", 
 		"gender":"Sexe",
 		"women":"Femme",
 		"man":"Homme",
@@ -187,7 +187,7 @@
 		"profil":"Profil",
 		"settings":"Settings",
 		"challenge":"Défi",
-		"shop":"boutique",
+		"shop":"Boutique",
 		"support_us":"Nous soutenir",
 		"commands":"Vos commandes",
 		"logout":"Déconnexion"
