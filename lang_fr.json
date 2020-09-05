@@ -79,14 +79,14 @@
 		"accept_conditions":"J'accepte les conditions du site."
 	},
 	"forgot":{
-		"no_password":"Aucun mot de passe sur ce compte contactez un Administrateur",
-		"staff_account":"Action impossible, contacter un Administrateur",
+		"no_password":"Aucun mot de passe sur ce compte, contactez un Administrateur",
+		"staff_account":"Action impossible, contactez un Administrateur",
 		"send":"Un email vient d'être envoyé !",
-		"not_found":"Aucune adresse mail trouvé !"
+		"not_found":"Aucune adresse mail trouvée !"
 	},
 	"flash":{
 		"login_contact_admin":"Impossible de se connecter à ce compte ! Contactez un Administrateur",
-		"no_account":"Aucun compte n'existe !",
+		"no_account":"Ce compte n'existe pas !",
 		"error":"Une erreur est survenue avec {param} !",
 		"captcha":"Veuillez remplir le captcha !",
 		"confirm_email":"Veuillez vérifier vos emails pour confirmer le compte !",
@@ -122,7 +122,7 @@
 		"new_password":"Nouveau MDP",
 		"confirm_password":"Confirmation du MDP",
 		"country":"Pays",
-		"privacy": "Vie privée ( cocher = cacher )", 
+		"privacy": "Vie privée ( coché = caché )", 
 		"gender":"Sexe",
 		"women":"Femme",
 		"man":"Homme",
@@ -139,7 +139,7 @@
 		"unranked":"Unranked ...",
 		"waiting_code":"En attente des codes ...",
 		"waiting_win":"Victoire en attente ...",
-		"lose":"Éliminé au {nb_match} matchs",
+		"lose":"Éliminé au {nb_match} match",
 		"copy_code":"Copier le code",
 		"start":"En cours ...",
 		"winning":"Gagnant: {team}",
@@ -173,7 +173,7 @@
 		"rank":"Rank",
 		"state":"État",
 		"registered":"Inscrit",
-		"confirm":"Confirmer",
+		"confirm":"Confirmé",
 		"discord_tips":"Information: Lier votre discord à L2P et rejoindre le {url_discord} permet d'être en vocal avec vos mates",
 		"win":"Vainqueur"
 	},
@@ -185,7 +185,7 @@
 		"ranking":"Classement",
 		"tournaments":"Tournoi",
 		"profil":"Profil",
-		"settings":"Settings",
+		"settings":"Réglages",
 		"challenge":"Défi",
 		"shop":"Boutique",
 		"support_us":"Nous soutenir",
@@ -193,6 +193,6 @@
 		"logout":"Déconnexion"
 	},
 	"footer":{
-		"online":"Il y a {count} personnes en lignes !"
+		"online":"Il y a {count} personnes en ligne !"
 	}
 }
